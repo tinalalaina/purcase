@@ -1,0 +1,41 @@
+
+.tt{
+    background: rgb(0, 0, 0);
+    }
+
+  .bg-light{
+    width: 105px;
+    height: 105px;
+    position: absolute;
+    top:-52px;
+    left: 14%;
+    border:8px solid rgb(0, 0, 0);
+}
+.gx{
+  height: 155px;
+  padding: 85px;
+  width: auto;
+}
+.col{
+  margin-left: 16px;
+}
+p{
+  font-size: 23px;
+}
+.fa-certificate,.fa-check-double,.fa-500px{
+  color: red;
+  margin: 25px;
+  font-size: 45px;
+}
+
+
+.gx{
+  width: 480px;
+  font-size: 18px;
+  color:white;
+  background: greenyellow;
+  margin-top:12px!important;
+  margin-bottom:12px!important;
+  text-align: center;
+  border-radius: 8px;
+}

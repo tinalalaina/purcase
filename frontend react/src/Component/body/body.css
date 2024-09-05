@@ -1,0 +1,72 @@
+.bgimg-1 {
+    background-position: center;
+    background-size: cover;
+    background-image: url("./growstore/IMG.jpg");
+    min-height: 100%;
+}
+
+.w3-padding-48{padding-top:38px!important;padding-bottom:118px!important}
+
+
+.body{
+    background: black;
+    color: rgb(255, 0, 0);
+}
+.ts{
+height: 4rem;
+background: greenyellow;
+}
+.w3-center{text-align:left!important;
+padding-left: 128px;}
+.w3-tag{background-color:#000;color:#fff;display:inline-block;padding-left:8px;padding-right:8px;text-align:center}
+.msg2{
+    color: white;
+}
+.msg{
+    background-color:#000;
+    color: white;
+    font-size: 58px;
+}
+.msg1{
+    background-color:#000;
+     color: white;
+    font-size: 42px;
+}
+.msg3{
+    background-color:#000;
+    color: white;
+   font-size: 38px;
+}
+
+
+.cardx{
+    width: 280px;
+    font-size: 18px;
+    color:white;
+    background: greenyellow;
+    margin-top:12px!important;
+    margin-bottom:12px!important;
+    text-align: center;
+    border-radius: 8px;
+}
+.cardy{
+    width: 280px;
+    font-size: 18px;
+    color:white;
+    background: greenyellow;
+    margin-top:12px!important;
+    margin-bottom:12px!important;
+    text-align: center;
+    margin-left: 24%;
+    border-radius: 8px;
+}
+.card2{
+   padding-left: 88px; 
+   padding-top:42px!important;
+   padding-bottom:42px!important
+}
+h1{
+    
+   padding-top:8px!important;
+   padding-bottom:8px!important
+}

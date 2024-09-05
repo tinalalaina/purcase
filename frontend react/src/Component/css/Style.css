@@ -1,0 +1,37 @@
+.container-fluid{
+    position: absolute;
+    top: 2%;
+  }
+  .id{
+    height: 8px;
+    border-radius: 4px;
+    font-size: 10px;
+  }
+  a{
+    margin-left: 15px;
+  }
+  form{
+    margin-right: 15px;
+  }
+  .ic{
+    background:white;
+  }
+  .navbar-expand-lg{
+    border-radius: 15px;
+  }
+  .fa-whmcs{
+    font-size: 51px;
+    color:rgb(0, 0, 0);
+    padding-right:8rem;
+  }
+  .fa-whmcs:hover{
+    font-size: 51px;
+    color:rgb(255, 0, 21);
+    padding-right:8rem;
+  }
+  .nav-link:hover{
+    color:rgb(255, 0, 21);
+  }
+  .mdd{
+    padding: 25px;
+  }

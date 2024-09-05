@@ -1,0 +1,77 @@
+.page1{
+    padding-top:32px!important;
+    padding-bottom:32px!important;
+    text-align: center;
+
+}
+h1{
+    padding-top:32px!important;
+    padding-bottom:32px!important;
+    font-size: 55px;
+}
+.s{
+    padding-top: 48px;
+    padding-left: 85px;
+}
+
+.pa{
+    font-size: 26px;
+    color:orange;
+}
+.pa2{
+    font-size: 48px;
+}
+.pa3{
+    font-size: 26px;
+    color:orangered
+}
+.bg-primar{
+    font-size: 26px;
+    background: orange;
+    color: white;
+}
+.bg-primar:hover{
+    font-size: 26px;
+    color: orange;
+    border-radius: 8px;
+    background: red;
+}
+.w3-image{max-width:100%;height:auto}
+.centre{
+    width: 450px;
+    margin: 25px;
+}
+.gu{
+    background: wheat;
+}
+
+.w3-half{
+    float:left;
+    width:50%;
+}
+.centre1{
+    border:4px solid rgb(128, 0, 255);
+    padding: 15px;
+    border-radius: 8px;
+}
+.pst22{
+margin: auto;
+color: red;
+}
+.pst21{
+    margin: auto;
+    color: gray;
+    }
+    .pst3{
+        margin-top: 15px;
+    }
+    .fa-star{
+        color: gold;
+    }
+    .colone3{
+        padding: 18px;
+    }
+    .pad{
+        padding-top: 38px;
+        padding-bottom: 38px;
+    }
